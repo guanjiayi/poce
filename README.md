@@ -1,3 +1,8 @@
+POCE: Primal Policy Optimization with Conservative Estimation for Multi-constraint Offline Reinforcement Learning
+==================================
+This project provides the open source implementation of the POCE method introduced in the paper: "POCE: Primal Policy Optimization with Conservative Estimation for\\ Multi-constraint Offline Reinforcement Learning" . 
+
+
 ## Install
 ### Create a conda environment and install
 ```
